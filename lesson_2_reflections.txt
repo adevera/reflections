@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+A subdirectory is created in the repository directory, called .git. It has to be done in order to have git taking control of it.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an interim location where files to be commited are set apart before the commit operation is carried out

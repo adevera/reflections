@@ -10,3 +10,5 @@ How do the diagrams help you visualize the branch structure?
 it provides a clear understanding of what has happened
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 compatible changes of both branches will be included in the master branches which is checked out
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic saves lot of work and time when changes do not conflict each others, while manual allow to ascertain what is the change to keep when conflicts arisen

@@ -8,3 +8,5 @@ What are some situations when branches would be helpful in keeping your history 
 when you want to add some experimental changes to the project, but do not want to modify the master branch yet
 How do the diagrams help you visualize the branch structure?
 it provides a clear understanding of what has happened
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+compatible changes of both branches will be included in the master branches which is checked out

@@ -30,3 +30,9 @@ What is the benefit of having a copy of the last known state of the remote store
 	It allows to work offline based on the latest status available. Once commits
 	are added locally, and you are back online, you can get an updated copy of the remote
 	and merge changes and resolve conflicts if arisen.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	It would be quite hard to keep track on other changes vs. my changes, specially
+	with different branches. Some kind of tracking spreadsheet or so had to be used 
+	in order to try to keep some tracking an control.

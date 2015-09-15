@@ -36,3 +36,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	It would be quite hard to keep track on other changes vs. my changes, specially
 	with different branches. Some kind of tracking spreadsheet or so had to be used 
 	in order to try to keep some tracking an control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	
+	Having a branch allow to keep a master branch with the official code line, and 
+	being able to experiment or try features not stable enough yet in the branch.
+
+

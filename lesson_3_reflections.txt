@@ -24,3 +24,9 @@ one instead of another?
 	different lines of code, allowing to evolve them independently, as well as
 	merging one or several of them when convenient, both manually and
 	automatically.
+	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It allows to work offline based on the latest status available. Once commits
+	are added locally, and you are back online, you can get an updated copy of the remote
+	and merge changes and resolve conflicts if arisen.
